@@ -1,16 +1,27 @@
-# counter
+# Flutter Counter App 💖
 
-A new Flutter project.
+A cute and simple **Flutter Counter App** with a splash screen and persistent storage using **SharedPreferences**.  
+The counter value is saved locally, so it remains even after the app restarts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 🌸 **Splash Screen** with gradient background and custom fonts
+- 🔢 **Counter Screen** with:
+    - Increment ➕
+    - Decrement ➖
+    - Reset 🔄
+- 💾 **Persistent Storage** using SharedPreferences
+- 🎨 Beautiful fonts using **Google Fonts**
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screens
+1. **Splash Screen**
+    - Shows app title and a loading indicator for 3 seconds.
+2. **Counter Screen**
+    - Displays counter value.
+    - Buttons to increase, decrease, and reset count.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
