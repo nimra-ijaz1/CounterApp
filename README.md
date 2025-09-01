@@ -1,4 +1,4 @@
-# Flutter Counter App 💖
+# Flutter Counter App 
 
 A simple **Flutter Counter App** with a splash screen and persistent storage using **SharedPreferences**.  
 The counter value is saved locally, so it remains even after the app restarts.
