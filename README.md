@@ -23,5 +23,11 @@ The counter value is saved locally, so it remains even after the app restarts.
     - Displays counter value.
     - Buttons to increase, decrease, and reset count.
 
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/nimra-ijaz1/CounterApp.git
+cd CounterApp
 
 
