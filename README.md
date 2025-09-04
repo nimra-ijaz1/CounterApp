@@ -28,6 +28,6 @@ The counter value is saved locally, so it remains even after the app restarts.
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/nimra-ijaz1/CounterApp.git
-cd CounterApp
+cd CounterApp 
 
 
